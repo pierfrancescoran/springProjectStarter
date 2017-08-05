@@ -1,0 +1,17 @@
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/mongo/repositories/AccountDAO.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/main/Application.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/jwt/JWTConfigurer.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/config/MongoConfigDev.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/controller/RestControllersDev.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/mongo/repositories/AccountRepository.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/config/MongoConfigProduction.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/controller/RestControllersProduction.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/jwt/Http401UnauthorizedEntryPoint.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/exception/RepositoryException.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/model/entities/Account.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/config/SecurityConfig.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/jwt/TokenProvider.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/jwt/AuthorizationLogic.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/jwt/JWTFilter.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/model/httpbody/LoginVM.java
+/home/peter/NetBeansProjects/springProjectStarter/src/main/java/com/peter/model/entities/User.java

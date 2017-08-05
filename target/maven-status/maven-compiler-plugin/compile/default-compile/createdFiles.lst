@@ -1,0 +1,17 @@
+com/peter/model/httpbody/LoginVM.class
+com/peter/mongo/repositories/AccountRepository.class
+com/peter/main/Application.class
+com/peter/jwt/JWTConfigurer.class
+com/peter/model/entities/User.class
+com/peter/exception/RepositoryException.class
+com/peter/mongo/repositories/AccountDAO.class
+com/peter/jwt/AuthorizationLogic.class
+com/peter/controller/RestControllersDev.class
+com/peter/jwt/Http401UnauthorizedEntryPoint.class
+com/peter/jwt/JWTFilter.class
+com/peter/config/MongoConfigProduction.class
+com/peter/config/SecurityConfig.class
+com/peter/controller/RestControllersProduction.class
+com/peter/jwt/TokenProvider.class
+com/peter/model/entities/Account.class
+com/peter/config/MongoConfigDev.class

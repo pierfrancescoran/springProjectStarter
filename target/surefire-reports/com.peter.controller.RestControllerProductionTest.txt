@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.peter.controller.RestControllerProductionTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.025 sec - in com.peter.controller.RestControllerProductionTest

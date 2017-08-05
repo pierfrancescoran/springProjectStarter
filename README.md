@@ -1,19 +1,3 @@
-Speaking clock
-==============
-
-Specification
--------------
-1. Given a 24 hour clock convert the current time into words
-	e.g. "08:34" should be converted to "It's eight thirty four"
-
-2. Return Midday and Midnight as "It's Midday" and "It's Midnight"
-
-The time allotted to the test is 1 hour. Your solution will be judged on a number of criteria pertinent to good
-software development practice. Incomplete solutions are acceptable.
-
-Please note any assumptions you make, or any further questions you have regarding the requirements.
-
-
 Run the application
 -------------------
 The REST micro service is build using Spring core and it requires a MongoDB to authenticate the users (the dump of the DB is in the project in the folder dump).
@@ -48,9 +32,3 @@ headers: Content-Type:application/json
 body: {"username":"test@testington.com","password":"London","rememberMe":true}
 Authentication response:
 headers: Authorization:Bearer ... (to use in all the future request to the API)
-2. Time request:
-address: https://192.168.0.29:8443/getTime
-method: GET
-headers: Authorization:Bearer ... 
-Time response:
-body: {"timestamp":1501943609857,"status":401,"error":"Unauthorized","message":"Access Denied","path":"/getTime"}
